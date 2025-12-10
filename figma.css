@@ -1,7 +1,13 @@
 * {
-    margin: 0 ;
+    margin: 0;
     padding: 0;
 }
-:root{
-    
+
+:root {
+    /*Background Start*/
+    --bg-white: #FFFFFF;
+    --bg-color100: #9ACBD0;
+    --bg-color300: #48A6A7;
+    --bg-color500: #425C59;
+    /*Background End*/
 }
